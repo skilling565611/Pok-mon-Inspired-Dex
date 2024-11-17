@@ -1,0 +1,22 @@
+<monsters>
+    <monster>
+        <ID>001</ID>
+        <Dex_Name>FlameWisp</Dex_Name>
+        <Type1>Fire</Type1>
+        <Type2>Flying</Type2>
+        <Abilities>Flame Body</Abilities>
+        <Moves>Ember, Flame Charge</Moves>
+        <Description>A fiery bird-like creature</Description>
+        <Games>Elemental Clash, Mystic Beasts</Games>
+    </monster>
+    <monster>
+        <ID>002</ID>
+        <Dex_Name>WaterTide</Dex_Name>
+        <Type1>Water</Type1>
+        <Type2></Type2>
+        <Abilities>Hydration</Abilities>
+        <Moves>Surf, Water Gun</Moves>
+        <Description>A water-based beast</Description>
+        <Games>Legends of Terra, Mystic Beasts</Games>
+    </monster>
+</monsters>

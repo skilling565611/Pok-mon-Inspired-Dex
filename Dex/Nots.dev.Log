@@ -1,0 +1,10 @@
+{Custon Variables{Monster Dex}
+  Background_Color
+  Text_Color_Tittle
+  Win_W,Win_H=400,504//1097,546
+  IMG_Win_W, IMG_Win_H
+  Tittle
+  Buttons_Color
+  Buttons_Text_Color
+  DEBUG_MODE
+}
